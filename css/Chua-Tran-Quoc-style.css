@@ -11,9 +11,13 @@
 .col-sm-9 p{
     text-indent: 3rem;
 }
+/* font family */
+.container-fluid{
+  font-family: 'EB Garamond', serif;
+}
 /* image setting */
 .body-image .figure{
-    margin:1em auto;
+    margin:1em auto;  
     vertical-align: middle;
 }
 /* home button */
